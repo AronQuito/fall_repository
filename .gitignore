@@ -1,5 +1,11 @@
-# Object file
-*.o
+results/
+repo/
+dataset/dlr_preprocessed/
+dataset/mobiact_dataset/
+dataset/mobiact_preprocessed/
+dataset/notch_dataset/
+dataset/smartFall_dataset/
 
-# Ada Library Information
-*.ali
+.ipynb_checkpoints/
+*/__pycache__/
+
